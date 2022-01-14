@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **tarikcoskun@hotmail.com.tr**
 
-- 📄 Know about my experiences [https://bit.ly/tarik-coskun_cv_en-tr](https://bit.ly/tarik-coskun_cv_en-tr)
+- 📄 Know about my experiences [https://bit.ly/tarik-coskun_cv](https://bit.ly/tarik-coskun_cv)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
